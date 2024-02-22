@@ -10,7 +10,7 @@
 1. Acessar o Microsoft Azure;
 2. Acessar (ou criar) um workspace;
 3. Acessar o Machine Learning Studio;
-4. Ir em 'ML automatizado' e criar uma nova tarefa de ML Automatizada, alimentando-a com dados de entrada;
+4. Ir em 'ML automatizado' e criar uma nova tarefa, alimentando-a com dados de entrada da tarefa;
 5. Após concluída, acessar o modelo criado como saída e registrá-lo;
 6. Acessar o ponto final (ou ponto de extremidade) e testá-lo;
 
