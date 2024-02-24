@@ -1,3 +1,3 @@
-### Curso: Microsoft Azure AI Fundamentals - by DIO
+### Curso: Microsoft Azure AI Fundamentals 
 
-- Promovido pela plataforma DIO (https://www.dio.me/en)
+Promovido pela plataforma DIO (https://www.dio.me/en)
