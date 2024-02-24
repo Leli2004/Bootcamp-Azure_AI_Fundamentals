@@ -1,3 +1,7 @@
-### Curso: Microsoft Azure AI Fundamentals 
+## Curso: Microsoft Azure AI Fundamentals 
 
-Promovido pela plataforma DIO (https://www.dio.me/en)
+#### Quem promove? 
+O curso é promovido pela plataforma DIO (https://www.dio.me/en).
+
+#### O que aborda?
+Conceitos e práticas de cunho introdutório envolvendo princípios de Inteligência Artifical utilizando a plataforma do Microsoft Azure. 
