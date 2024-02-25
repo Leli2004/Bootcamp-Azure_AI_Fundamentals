@@ -12,12 +12,17 @@
     * Desafio
 
 #### Desafio
-- Objetivo: XXXXXXXXXXXXXXXXXXXXX;
+Descrição: "Neste LAB, iremos praticar a criação de reconhecimento facial, identificação de dados em documentos e também o reconhecimento de elementos em imagens. Através desses exercícios, aprimoraremos nossas habilidades na aplicação prática de tecnologias de reconhecimento, proporcionando uma compreensão mais profunda e prática desses conceitos essenciais.";
+- Objetivo: explorar o Visual Studio e aplicar a ferramenta de reconhecimento de texto em imagens.
+
+#### Links documentação
+- https://aka.ms/ai900-face
+- https://aka.ms/ai900-ocr
+- https://aka.ms/ai900-image-analysis
 
 #### Passos
-1. XXXXXXXXXX;
-2. XXXXXXXXXX.
-
-#### Imagens
-- Pasta 'inputs' contém as imagens utilizadas como entrada;
-- Pasta  'output' contém os resultados de reconhecimento de texto nessas imagens.
+1. Criar um resource no "Azure AI services" - para fazer uma ponte com o Vision Studio
+2. Acessar https://portal.vision.cognitive.azure.com/ ;
+3. Acessar o recurso criado e definí-lo como default
+4. Escolher a opção desejada para trabalhar - nesse caso foi o OCR (Optical character recognition);
+5. Escolher imagens de entrada e visualizar a saída em texto, realizando prints - eetes que estão nas pastas 'inputs' e 'outputs', sendo as imagens de entrada e os seus resultados, respectivamente.

@@ -11,9 +11,14 @@
     * Desafio
 
 #### Desafio
+Descrição: "Neste LAB, vamos aprender a criar nossa conta no Azure e explorar as capacidades de Machine Learning da plataforma para desenvolver nossa primeira automação prática. Ao aplicar implementações e soluções escaláveis de aprendizado de máquina na nuvem da Microsoft, adquiriremos conhecimentos valiosos e experiência na construção de soluções eficientes.";
 - Objetivo: realizar um modelo de predição do valor de aluguel de bicicletas;
 - Modelo teste, que simula a previsão do valor de aluguel;
 - Conjunto de dados de entrada web: https://aka.ms/bike-rentals.
+
+#### Links documentação
+- https://aka.ms/ai900-auto-ml
+- https://aka.ms/ai900-azure-ai-services
 
 #### Passos
 1. Acessar o Microsoft Azure;
