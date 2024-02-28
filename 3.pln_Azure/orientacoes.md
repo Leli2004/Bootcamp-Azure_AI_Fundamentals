@@ -31,7 +31,7 @@
     4. Conversão de voz em texto em tempo real: selecionar um arquivo áudio ou falar na hora e a IA é usada para transcrever em texto e em JSON;
     5. Para aplicação real, há exemplos e tutoriais do próprio Azure.\
 
-- Language Studio:
+- Language Studio:/
     Funções: análise semântica de texto e fala - interpretação de mensagens e análise de sentimentos.
     1. Acessar portal do Azure;
     2. Criar um recurso de Language Service;
