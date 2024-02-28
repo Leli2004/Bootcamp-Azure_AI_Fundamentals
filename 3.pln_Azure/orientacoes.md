@@ -18,7 +18,7 @@
 - Funções Speech Studio: transcrever áudio em texto ou falar texto em áudio. Cenários comuns de uso: criar legendas com a conversão em texto, transcrição e análise de call center com os serviços de Voz e Idioma;
 - Funções Language Studio:  Funções: análise semântica de texto e fala - interpretação de mensagens e análise de sentimentos.
 
-#### Link
+#### Links
 - https://learn.microsoft.com/en-us/training/paths/explore-natural-language-processing/ 
 - https://aka.ms/ai900-text-analysis
 - https://aka.ms/ai900-speech
