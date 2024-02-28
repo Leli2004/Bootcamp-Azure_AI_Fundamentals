@@ -29,7 +29,7 @@ Speech Studio:
 2. Selecionar ou criar um recurso, que permite gerenciar as funcionalidades selecionadas;
 3. Selecionar a opção desejada para trabalhar;
 4. Conversão de voz em texto em tempo real: selecionar um arquivo áudio ou falar na hora e a IA é usada para transcrever em texto e em JSON;
-5. Para aplicação real, há exemplos e tutoriais do próprio Azure.
+5. Para aplicação real, há exemplos e tutoriais do próprio Azure.\
 
 Language Studio:
 1. Acessar portal do Azure;
