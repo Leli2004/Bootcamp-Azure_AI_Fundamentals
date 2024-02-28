@@ -3,7 +3,7 @@
 #### Curso: Microsoft Azure AI Fundamentals - by DIO
 - Prática do curso promovido pela plataforma DIO (https://www.dio.me/en);
 - Módulo 'Trabalhando com Visão Computacional';
-- Práticas:
+- O que aborda:
     * Imagens e processamento de imagens
     * Redes Neurais Convolucionais
     * Modelos multimodais

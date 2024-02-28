@@ -3,7 +3,7 @@
 #### Curso: Microsoft Azure AI Fundamentals - by DIO
 - Prática do curso promovido pela plataforma DIO (https://www.dio.me/en);
 - Módulo 'Trabalhando com Machine Learning na Prática no Azure ML';
-- Práticas:
+- O que aborda:
     * Tipos de aprendizado de máquina
     * Treinamento e avaliação de modelo
     * Aprendizado profundo
