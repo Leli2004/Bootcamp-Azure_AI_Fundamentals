@@ -25,6 +25,6 @@
 - Criar o recurso Azure AI services;
 - Criar uma conta de armazenamento;
 - Criar um container;
-- Fazer upload de arquivos (teste com arquivos fornecidos na documentação);
+- Fazer upload de arquivos (teste com arquivos 'reviews' fornecidos na documentação);
 - Importar os dados no AI Search;
 - Testar o mecanismo de pesquisa pelo Azure, sendo que pode ser aplicado em diversos outros contextos.
